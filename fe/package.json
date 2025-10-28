@@ -1,0 +1,15 @@
+{
+  "name": "mymdm",
+  "version": "1.0.0",
+  "description": "Full suite mdm - frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coreui/coreui": "^5.4.3",
+    "@coreui/vue": "^5.7.0"
+  }
+}
